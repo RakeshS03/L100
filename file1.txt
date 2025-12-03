@@ -3,3 +3,4 @@ hello my first git upload
 --from the github
 
 this is from tester branch 
+hello from minitester
